@@ -60,7 +60,7 @@ function Formulario() {
         <>
             <Form
                 onSubmit={handleSearched}
-                className="d-flex flex-column py-4 flex-md-row"
+                className="d-flex flex-column py-4 flex-md-row maxForm"
             >
                 <Form.Control
                     type="text"
